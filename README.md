@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋 I'm Muhammad Abdullah Mirza</h1>
 <h3 align="center">Full-Stack / AI / ML / Operations / Finance</h3>
 
-- 🔭 I’m currently working on **Learning Projects**
-- 🌱 I’m currently learning **AI Agentics / ML**
+- 🔭 Software Engineer with 5 years of experience of working and establishing startups 
+- 🌱 I’m always learning new tools and tech, currently learning **AI Agentics / ML**
 - 👯 I've worked on **Fintech / RideShare Startups / Education / Healthcare**
 - 📫 How to reach me **mirzeeyas@gmail.com**
 
